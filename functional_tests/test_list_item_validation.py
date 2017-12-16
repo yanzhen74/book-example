@@ -15,6 +15,7 @@ class ItemValidationTest(FunctionalTest):
 
         print(self.browser.page_source)
         error = self.get_error_element()
+        print("adfaf:"+error.text)
         self.assertEqual(error.text, "You can't have an empty list item")
 
         self.get_item_input_box().send_keys('Buy milk\n')
@@ -48,6 +49,8 @@ class ItemValidationTest(FunctionalTest):
         self.assertTrue(error.is_displayed())
 
         self.get_item_input_box().send_keys('a')
+        import time
+        time.sleep(1)
 
         error = self.get_error_element()
         self.assertFalse(error.is_displayed())
