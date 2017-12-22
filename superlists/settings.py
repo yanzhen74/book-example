@@ -28,7 +28,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = ['192.168.1.7']
+ALLOWED_HOSTS = ['192.168.1.6']
 
 
 # Application definition
@@ -133,8 +133,9 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'superlists', 'static'),
 )
 
-EMAIL_HOST = 'smtp.cstnet.cn'
-EMAIL_HOST_USER = 'yanzhen@csu.ac.cn'
+EMAIL_HOST = 'smtp.sina.cn'
+EMAIL_HOST_USER = 'regainworld@sina.com'
 EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')
 EMAIL_PORT = 25
 EMAIL_USE_TLS = False
+EMAIL_USE_SSL = False
