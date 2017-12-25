@@ -148,7 +148,7 @@ LOGGING = {
     'root': {'level': 'INFO'},
 }
 
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackEnd'
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.sina.com'
 EMAIL_HOST_USER = 'regainworld@sina.com'
 EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')
