@@ -28,7 +28,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = ['192.168.1.7']
+ALLOWED_HOSTS = ['192.168.1.6']
 
 
 # Application definition
@@ -41,6 +41,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'lists',
+    'accounts',
+]
+
+AUTH_USER_MODEL = 'accounts.User'
+AUTHENTICATION_BACKENDS = [
+    'accounts.authentication.PasswordlessAuthenticationBackend',
 ]
 
 MIDDLEWARE = [
@@ -124,3 +130,28 @@ USE_TZ = True
 STATIC_URL = '/static/'
 # STATIC_ROOT = os.path.abspath(os.path.join(BASE_DIR, '../static'))
 STATIC_ROOT = os.path.join(BASE_DIR, '../static')
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers':{
+        'console': {
+            'level': 'DEBUG',
+            'class': 'logging.StreamHandler',
+        },
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['console'],
+        },
+    },
+    'root': {'level': 'INFO'},
+}
+
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackEnd'
+EMAIL_HOST = 'smtp.sina.com'
+EMAIL_HOST_USER = 'regainworld@sina.com'
+EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASSWORD')
+EMAIL_PORT = 25
+EMAIL_USE_TLS = False
+EMAIL_USE_SSL = False

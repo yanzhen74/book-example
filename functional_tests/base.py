@@ -1,10 +1,13 @@
 from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from selenium import webdriver
-
+from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.common.keys import Keys
 import sys
 import unittest
 from unittest import skip
+import time
+
+MAX_WAIT = 10
 
 
 class FunctionalTest(StaticLiveServerTestCase):
@@ -39,3 +42,13 @@ class FunctionalTest(StaticLiveServerTestCase):
 
     def get_item_input_box(self):
         return self.browser.find_element_by_id('id_text')
+
+    def wait_for(self, fn):
+        start_time = time.time()
+        while True:
+            try:
+                return fn()
+            except (AssertionError, WebDriverException) as e:
+                if time.time() - start_time > MAX_WAIT:
+                    raise e
+                time.sleep(0.5)
