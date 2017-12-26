@@ -34,7 +34,7 @@ class NewVisitorTest(FunctionalTest):
         self.check_for_row_in_list_table('2: Use peacock feathers to make a fly')
 
         self.browser.quit()
-        self.browser = webdriver.Firefox()
+        self.browser = webdriver.Chrome()
 
         self.browser.get(self.server_url)
         page_text = self.browser.find_element_by_tag_name('body').text
