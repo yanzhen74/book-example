@@ -1,5 +1,6 @@
 from unittest import skip
 from .base import FunctionalTest
+from lists.models import List, Item
 
 
 class ItemValidationTest(FunctionalTest):
