@@ -183,4 +183,10 @@ class NewListTest(TestCase):
 
     def test_for_invalid_input_to_home_page(self):
         response = self.client.post('/', data={'text': ''})
-        #self.assertContains(response, escape(EMPTY_LIST_ERROR))
+        # self.assertContains(response, escape(EMPTY_LIST_ERROR))
+
+
+class MyListsTest(TestCase):
+    def test_my_lists_url_renders_my_lists_template(self):
+        response = self.client.get('/lists/users/a@b.com/')
+        self.assertTemplateUsed(response, 'my_lists.html')

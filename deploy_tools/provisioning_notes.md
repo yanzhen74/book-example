@@ -36,3 +36,9 @@ assume user count, home directory is /home/oliver
               |------source
               |------static
               |______virtualenv
+
+## Systemd service
+
+* see gunicorn-supervisor.template.conf
+* replace SITENAME with, e.g., 192.168.1.6
+* replace SERIT with email password
