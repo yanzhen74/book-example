@@ -14,7 +14,7 @@ from lists.models import List, Item
 SCREEN_DUMP_LOCATION = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), 'screendumps'
 )
-MAX_WAIT = 10
+MAX_WAIT = 20
 
 
 def wait(fn):

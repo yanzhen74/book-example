@@ -88,6 +88,14 @@ class NewVisitorTest(FunctionalTest):
             any(row.text == '1: Buy peacock feathers' for row in rows)
         )
 
+        inputbox = self.get_item_input_box()
+        inputbox.send_keys('Use peacock feathers to make a fly')
+
+        # When she hits enter, the page updates, and now the page lists
+        # "1: Buy peacock feathers" as an item in a to-do list table
+        inputbox.send_keys(Keys.ENTER)
+        time.sleep(1)
+
         # The page updates again, and now shows both items on her list
         self.wait_for_row_in_list_table('2: Use peacock feathers to make a fly')
         self.wait_for_row_in_list_table('1: Buy peacock feathers')
