@@ -1,0 +1,1925 @@
+1511963453613	geckodriver	INFO	Listening on 127.0.0.1:6447
+1511963455805	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.h2Q8hSiSjZK8
+1511963455809	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511963455862	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6453
+1511963458123	Marionette	INFO	Listening on port 6453
+1511963460009	Marionette	INFO	startBrowser e78d06f3-a980-402c-9db6-a141d88b285f
+1511963460040	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963460454	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963460948	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963460975	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963460997	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963461036	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963461046	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963461062	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963461162	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963461261	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963461320	Marionette	INFO	sendAsync e78d06f3-a980-402c-9db6-a141d88b285f
+1511963538079	geckodriver	INFO	Listening on 127.0.0.1:6495
+1511963540266	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.MFUaslVoz7OZ
+1511963540282	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511963540328	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6501
+1511963542424	Marionette	INFO	Listening on port 6501
+1511963543905	Marionette	INFO	startBrowser 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963543925	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963544196	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963544500	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963544989	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963545001	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963545016	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963545039	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963545048	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963545059	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963545097	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+1511963555182	Marionette	INFO	sendAsync 4438a875-21e5-4740-b733-8bd7e0a8109e
+[Child 9620] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1511963602193	geckodriver	INFO	Listening on 127.0.0.1:6550
+1511963604377	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.llgiIuKAZBVZ
+1511963604380	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511963604428	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6556
+1511963606517	Marionette	INFO	Listening on port 6556
+1511963608026	Marionette	INFO	startBrowser dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963608047	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963608329	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963608671	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963609141	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963609157	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963609171	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963609190	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963609198	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963609214	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963609258	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963619351	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+1511963619367	Marionette	INFO	sendAsync dc161857-5ed6-4b2a-89b7-9ec684e572d4
+[Child 1852] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1511963684386	geckodriver	INFO	Listening on 127.0.0.1:6602
+1511963686608	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.fdcHumIhcgYp
+1511963686608	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511963686655	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6608
+1511963688746	Marionette	INFO	Listening on port 6608
+1511963690271	Marionette	INFO	startBrowser b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963690303	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963690708	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691158	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691809	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691821	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691837	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691864	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691873	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691890	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963691950	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963692044	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963692064	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+1511963692077	Marionette	INFO	sendAsync b782f02b-57bb-4e93-ab4c-df413f3948a2
+[Child 8308] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 497
+[Child 8308] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1511968742172	geckodriver	INFO	Listening on 127.0.0.1:7861
+1511968744351	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.DS0nvSuyveNF
+1511968744358	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511968744405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7867
+1511968746600	Marionette	INFO	Listening on port 7867
+1511968747861	Marionette	INFO	startBrowser 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968747872	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748180	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748692	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748707	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748727	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748749	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748757	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748771	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748871	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968748969	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968749010	Marionette	INFO	sendAsync 268e4c26-4246-44e4-8030-63d71587bbe3
+1511968876547	geckodriver	INFO	Listening on 127.0.0.1:7899
+1511968878763	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.6FnUphrSoc9G
+1511968878765	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511968878818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7905
+1511968880934	Marionette	INFO	Listening on port 7905
+1511968882303	Marionette	INFO	startBrowser f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968882316	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968882618	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883215	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883257	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883272	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883295	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883312	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883328	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883412	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883501	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968883543	Marionette	INFO	sendAsync f234a689-a41c-4f20-bdea-52397f6fdbc4
+1511968964381	geckodriver	INFO	Listening on 127.0.0.1:7950
+1511968966615	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.3wB5RqHwRsK0
+1511968966615	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511968966684	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7956
+1511968968825	Marionette	INFO	Listening on port 7956
+1511968970328	Marionette	INFO	startBrowser 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968970343	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968970403	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968970904	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968970917	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968970964	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968970986	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968970995	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968971005	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968971077	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968971171	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511968971203	Marionette	INFO	sendAsync 9b0cbfd3-3492-455d-8582-ecbc5df2ffea
+1511969201240	geckodriver	INFO	Listening on 127.0.0.1:7993
+1511969203476	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.8prRRW45VtjV
+1511969203476	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511969203544	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7999
+1511969205657	Marionette	INFO	Listening on port 7999
+1511969207270	Marionette	INFO	startBrowser 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969207283	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969207330	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969207610	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208085	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208098	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208111	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208129	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208139	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208152	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208196	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208278	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208302	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+1511969208320	Marionette	INFO	sendAsync 2b99faa6-17b0-483b-8493-bed4f3b5a537
+[Child 3124] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1511969326080	geckodriver	INFO	Listening on 127.0.0.1:8052
+1511969328280	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.gPB64N79MVZG
+1511969328280	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511969328331	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8058
+1511969330434	Marionette	INFO	Listening on port 8058
+1511969331847	Marionette	INFO	startBrowser 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969331864	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332187	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332840	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332848	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332859	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332878	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332887	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332900	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969332995	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969333102	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969333135	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969333161	Marionette	INFO	sendAsync 0eac0886-dd0a-4c8f-b118-f1cde9c520eb
+1511969366995	geckodriver	INFO	Listening on 127.0.0.1:8096
+1511969369201	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.qMOosq7kW5am
+1511969369201	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511969369248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8102
+1511969371393	Marionette	INFO	Listening on port 8102
+1511969372858	Marionette	INFO	startBrowser a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969372873	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969372940	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373470	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373487	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373505	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373532	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373538	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373548	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373633	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373732	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969373772	Marionette	INFO	sendAsync a95592f7-7fdd-4683-9278-4fffd4da7b10
+1511969465975	geckodriver	INFO	Listening on 127.0.0.1:8137
+1511969468178	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.YiizmclZksCQ
+1511969468194	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511969468239	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8144
+1511969470467	Marionette	INFO	Listening on port 8144
+1511969471717	Marionette	INFO	startBrowser 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969471730	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472043	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472593	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472614	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472630	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472658	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472677	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472707	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969472781	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969473877	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969473887	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969473894	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969473900	Marionette	INFO	sendAsync 814c0c77-7681-43fe-8529-aa4e002eb2ce
+1511969525656	geckodriver	INFO	Listening on 127.0.0.1:8189
+1511969527861	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.vlKzxReHOyZ5
+1511969527877	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511969527915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8195
+1511969529993	Marionette	INFO	Listening on port 8195
+1511969531631	Marionette	INFO	startBrowser 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969531642	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969531676	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969531954	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969532428	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969532442	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969532452	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969532466	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969532475	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969532488	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969532527	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969533619	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969533628	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+1511969533636	Marionette	INFO	sendAsync 32c100b0-637a-419d-b9a0-6147b5f8809d
+[Child 8380] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1511969753829	geckodriver	INFO	Listening on 127.0.0.1:8237
+1511969756047	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.QhF8SiTPnyxU
+1511969756047	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511969756084	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8243
+1511969758199	Marionette	INFO	Listening on port 8243
+1511969759567	Marionette	INFO	startBrowser 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969759579	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969759904	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969760413	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969760425	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969760445	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969760471	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969760487	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969760508	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969760579	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969761677	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969761702	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1511969761719	Marionette	INFO	sendAsync 16a82e4d-04cd-4908-baba-cd9a7205227b
+1512045586182	geckodriver	INFO	Listening on 127.0.0.1:9974
+1512045588334	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.30EEUjF4o619
+1512045588334	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512045588387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9980
+1512045590875	Marionette	INFO	Listening on port 9980
+1512045592472	Marionette	INFO	startBrowser 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045592493	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045592896	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045593492	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045593511	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045593530	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045593566	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045593588	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045593604	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045593715	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045594833	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045594845	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045594856	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045594869	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045594877	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045594979	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045596015	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045596025	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512045596033	Marionette	INFO	sendAsync 3cef6c50-0986-4c5f-86f1-0c4bbd977329
+1512046718320	geckodriver	INFO	Listening on 127.0.0.1:1659
+1512046720393	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.FRsiiHy6BHp7
+1512046720409	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512046720455	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1665
+1512046721824	Marionette	INFO	Listening on port 1665
+1512046723311	Marionette	INFO	startBrowser 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046723324	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046723677	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046724145	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046724153	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046724160	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046724176	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046724183	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046724192	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046724252	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046725345	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046725353	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046725361	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046725372	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046725378	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046725439	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046726468	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046726485	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046726504	Marionette	INFO	sendAsync 4fd05399-a29e-4c2c-9582-8ac11ccc39ee
+1512046941001	geckodriver	INFO	Listening on 127.0.0.1:1764
+1512046942872	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.wH1owORgrEEA
+1512046942880	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512046942956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1770
+1512046945730	Marionette	INFO	Listening on port 1770
+1512046947985	Marionette	INFO	startBrowser cedbf745-4455-444c-a521-05242e2d627d
+1512046948012	Marionette	INFO	sendAsync cedbf745-4455-444c-a521-05242e2d627d
+1512046948553	Marionette	INFO	sendAsync cedbf745-4455-444c-a521-05242e2d627d
+1512047012203	geckodriver	INFO	Listening on 127.0.0.1:1846
+1512047014618	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.Jkp3e5TxaONl
+1512047014823	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512047015799	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1852
+1512047019575	Marionette	INFO	Listening on port 1852
+1512047023748	Marionette	INFO	startBrowser a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047023783	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024237	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024749	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024759	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024770	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024795	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024805	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024822	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047024938	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047026052	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047026064	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047026075	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047026092	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047026112	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047026205	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047027244	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047027252	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047027264	Marionette	INFO	sendAsync a04fb843-deff-4a1b-b467-99c1bf6cdd72
+1512047202479	geckodriver	INFO	Listening on 127.0.0.1:1980
+1512047204553	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.LaqfpRF8LLic
+1512047204553	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512047204600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1987
+1512047205578	Marionette	INFO	Listening on port 1987
+1512047207730	Marionette	INFO	startBrowser 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047207744	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208134	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208617	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208627	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208639	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208667	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208676	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208692	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047208805	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047209892	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047209904	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047209915	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047209934	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047209942	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047210038	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047211079	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047211098	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512047211116	Marionette	INFO	sendAsync 000f20f6-c6a4-4670-b079-09f6503e71b9
+1512135808418	geckodriver	INFO	Listening on 127.0.0.1:5267
+1512135810464	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.GA12sjrU5LJV
+1512135810468	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512135810533	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5273
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512135812235	Marionette	INFO	Listening on port 5273
+1512135813935	Marionette	INFO	startBrowser f6a763ec-e9f2-463c-bf28-cc8db4b6f344
+1512135813961	Marionette	INFO	sendAsync f6a763ec-e9f2-463c-bf28-cc8db4b6f344
+1512135814307	Marionette	INFO	sendAsync f6a763ec-e9f2-463c-bf28-cc8db4b6f344
+1512135865750	geckodriver	INFO	Listening on 127.0.0.1:5309
+1512135867786	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.OiibbNtlslDa
+1512135867790	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512135867848	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5315
+1512135869397	Marionette	INFO	Listening on port 5315
+1512135871260	Marionette	INFO	startBrowser 7f589e2d-4881-4e42-861c-5dd62418d99c
+1512135871286	Marionette	INFO	sendAsync 7f589e2d-4881-4e42-861c-5dd62418d99c
+1512135871596	Marionette	INFO	sendAsync 7f589e2d-4881-4e42-861c-5dd62418d99c
+1512135871887	Marionette	INFO	sendAsync 7f589e2d-4881-4e42-861c-5dd62418d99c
+1512135872790	Marionette	INFO	sendAsync 7f589e2d-4881-4e42-861c-5dd62418d99c
+[Child 4376] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1512135977697	geckodriver	INFO	Listening on 127.0.0.1:5367
+1512135979730	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.tbnmIoIriXlh
+1512135979733	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512135979790	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5373
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512135981343	Marionette	INFO	Listening on port 5373
+1512135982804	Marionette	INFO	startBrowser 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135982830	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135983176	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135983827	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135984332	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135984342	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135984352	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135984384	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135984391	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135984408	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135984502	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135985599	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135985622	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135985630	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135985643	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135985649	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135985687	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986722	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986731	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986743	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986760	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986768	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986775	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986782	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+1512135986789	Marionette	INFO	sendAsync 99fe9a7b-58f2-4658-87e7-87f728c6f8e1
+[Child 14840] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1512136011386	geckodriver	INFO	Listening on 127.0.0.1:5434
+1512136013412	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.OSX5pgH9dJMo
+1512136013416	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512136013470	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5443
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512136014992	Marionette	INFO	Listening on port 5443
+1512136016471	Marionette	INFO	startBrowser f29c6804-9d72-4e73-8295-4947c548ea62
+1512136016486	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136016833	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136017280	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136017286	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136017297	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136017325	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136017335	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136017349	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136017452	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018553	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018563	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018571	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018588	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018601	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018613	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018620	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136018701	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019736	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019743	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019750	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019766	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019776	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019783	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019793	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019805	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019814	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019822	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019831	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136019842	Marionette	INFO	sendAsync f29c6804-9d72-4e73-8295-4947c548ea62
+1512136100027	geckodriver	INFO	Listening on 127.0.0.1:5523
+1512136102060	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.iBeKfE6EFt9D
+1512136102063	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512136102116	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5529
+1512136103421	Marionette	INFO	Listening on port 5529
+1512136105181	Marionette	INFO	startBrowser 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136105203	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136105528	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136105716	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136106162	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136106173	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136106187	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136106213	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136106223	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136106240	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136106278	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136107356	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136107366	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136107374	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136107385	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136107393	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136107435	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108463	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108473	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108483	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108502	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108518	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108528	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108533	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+1512136108549	Marionette	INFO	sendAsync 7352fe14-7169-4f6d-b5e1-48d0f2c0fe3a
+[Child 13476] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1512136667697	geckodriver	INFO	Listening on 127.0.0.1:5675
+1512136669739	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.5KzI0kD92HL5
+1512136669748	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512136669811	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5681
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512136671405	Marionette	INFO	Listening on port 5681
+1512136672916	Marionette	INFO	startBrowser 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136672935	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673300	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673790	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673797	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673810	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673827	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673834	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673845	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136673925	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136675024	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136675033	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136675044	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136675057	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136675063	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136675144	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676175	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676182	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676190	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676203	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676213	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676219	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676225	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512136676234	Marionette	INFO	sendAsync 4ce5144b-9953-4fc1-8ec1-00941d42106b
+1512138488437	geckodriver	INFO	Listening on 127.0.0.1:6596
+1512138490460	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.CbUa2qLd0GwH
+1512138490470	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512138490528	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6602
+1512138492020	Marionette	INFO	Listening on port 6602
+1512138493573	Marionette	INFO	startBrowser 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138493589	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138493950	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138494429	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138494438	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138494446	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138494467	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138494475	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138494486	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138494567	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138495661	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138495670	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138495677	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138495689	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138495695	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138495768	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496802	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496823	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496834	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496845	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496853	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496861	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496867	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138496874	Marionette	INFO	sendAsync 1a8c0fc3-7633-434d-a896-5850ca2c542c
+1512138548399	geckodriver	INFO	Listening on 127.0.0.1:6668
+1512138550427	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.n7QEOnhJSMh4
+1512138550431	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512138550489	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6674
+1512138551983	Marionette	INFO	Listening on port 6674
+1512138553489	Marionette	INFO	startBrowser c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138553507	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138553874	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138554373	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138554384	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138554394	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138554421	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138554429	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138554441	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138554528	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138555620	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138555631	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138555640	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138555651	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138555657	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138555725	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556763	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556771	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556779	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556792	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556801	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556813	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556819	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512138556827	Marionette	INFO	sendAsync c8c30299-febe-4037-ba99-7b1d71eb994a
+1512139165424	geckodriver	INFO	Listening on 127.0.0.1:6988
+1512139167452	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.r4lID25vR7qy
+1512139167457	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512139167514	geckodriver::marionette	INFO	Connecting to Marionette on localhost:6994
+1512139168970	Marionette	INFO	Listening on port 6994
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512139170670	Marionette	INFO	startBrowser 9584a073-822a-430a-be40-00c9db63eddb
+1512139170689	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171027	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171515	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171524	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171533	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171549	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171556	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171571	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139171664	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139172755	Marionette	INFO	sendAsync 9584a073-822a-430a-be40-00c9db63eddb
+1512139479438	geckodriver	INFO	Listening on 127.0.0.1:7125
+1512139481460	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.osCbqtGulpEN
+1512139481464	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512139481516	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7131
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512139482953	Marionette	INFO	Listening on port 7131
+1512139484361	Marionette	INFO	startBrowser 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139484381	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139484856	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139485617	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139486140	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139486155	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139486164	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139486183	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139486193	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139486209	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139486253	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139487345	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+1512139487354	Marionette	INFO	sendAsync 6703659b-a027-4e67-99b7-509769d4cb9b
+[Child 9036] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1512207891799	geckodriver	INFO	Listening on 127.0.0.1:8379
+1512207893820	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.NzYT1Md0WwDu
+1512207893825	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512207893879	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8388
+1512207895559	Marionette	INFO	Listening on port 8388
+1512207897094	Marionette	INFO	startBrowser e4d43965-8818-442f-ab8b-fe98188be042
+1512207897123	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207897572	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207898059	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207898068	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207898077	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207898099	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207898110	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207898124	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207898223	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207899327	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207899337	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207899344	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207899354	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207899371	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207899378	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207899475	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207900502	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207900514	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207900522	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207900532	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207900540	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512207900547	Marionette	INFO	sendAsync e4d43965-8818-442f-ab8b-fe98188be042
+1512208513318	geckodriver	INFO	Listening on 127.0.0.1:8976
+1512208515353	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.RYvun6gYufyL
+1512208515363	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512208515434	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8982
+1512208516981	Marionette	INFO	Listening on port 8982
+1512208519007	Marionette	INFO	startBrowser 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208519039	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208519481	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208520001	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208520011	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208520023	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208520048	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208520060	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208520075	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208520200	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208521329	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208521338	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208521345	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208521352	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208521363	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208521369	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208521448	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208522475	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208522487	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208522494	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208522509	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208522515	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208522524	Marionette	INFO	sendAsync 17226d5a-8e92-4232-a7bd-09865b1094b1
+1512208752240	geckodriver	INFO	Listening on 127.0.0.1:9225
+1512208754277	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.hj2jsSfL5Hav
+1512208754287	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512208754358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9231
+1512208755970	Marionette	INFO	Listening on port 9231
+1512208758000	Marionette	INFO	startBrowser 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208758021	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208758489	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208758996	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208759005	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208759060	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208759084	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208759094	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208759111	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208759223	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208760346	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208760357	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208760367	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208760375	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208760389	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208760398	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208760487	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761527	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761539	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761548	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761562	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761574	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761579	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761587	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208761598	Marionette	INFO	sendAsync 91f89b98-e52d-48a3-b06a-19f73ab165b7
+1512208762011	geckodriver	INFO	Listening on 127.0.0.1:9281
+1512208764033	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.ID5n6Ip7HvTv
+1512208764037	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512208764098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9331
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512208765870	Marionette	INFO	Listening on port 9331
+1512208767373	Marionette	INFO	startBrowser c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208767388	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208767773	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208768234	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208768246	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208768278	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208768285	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208768335	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512208768458	Marionette	INFO	sendAsync c972f0d2-4523-4614-9da0-d78e04e5d07e
+1512209222180	geckodriver	INFO	Listening on 127.0.0.1:9745
+1512209224196	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.XBWsYkFr43Z2
+1512209224200	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512209224255	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9751
+1512209225839	Marionette	INFO	Listening on port 9751
+1512209227795	Marionette	INFO	startBrowser bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209227825	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228282	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228771	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228778	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228787	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228814	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228825	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228837	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209228920	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209230020	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209230030	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209230038	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209230049	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209230064	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209230071	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209230163	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231192	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231201	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231211	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231225	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231236	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231242	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231248	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231260	Marionette	INFO	sendAsync bbcd40e0-820e-4eb3-8d52-97aa2de8d3a9
+1512209231688	geckodriver	INFO	Listening on 127.0.0.1:9807
+1512209233687	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.JeTroZN3qfly
+1512209233697	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512209233765	geckodriver::marionette	INFO	Connecting to Marionette on localhost:9815
+1512209235091	Marionette	INFO	Listening on port 9815
+1512209236796	Marionette	INFO	startBrowser dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209236826	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209237310	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209237765	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209237777	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209237808	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209237820	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209237916	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512209239044	Marionette	INFO	sendAsync dc350a86-57c1-4be1-82b6-1859c8c6f81f
+1512214142941	geckodriver	INFO	Listening on 127.0.0.1:13023
+1512214144962	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.8vXOFudddoM5
+1512214144973	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512214145034	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13029
+1512214146614	Marionette	INFO	Listening on port 13029
+1512214148573	Marionette	INFO	startBrowser 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214148590	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149012	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149519	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149527	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149537	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149556	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149565	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149575	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214149672	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214150764	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214150773	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214150781	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214150791	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214150807	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214150815	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214150920	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214151954	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214151963	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214151970	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214151980	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214151990	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214151998	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214152009	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214152020	Marionette	INFO	sendAsync 9478fff9-8763-40a6-a20c-9ace0b92cffc
+1512214152515	geckodriver	INFO	Listening on 127.0.0.1:13083
+1512214154483	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.24bspF0IWyey
+1512214154493	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512214154555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13091
+1512214156179	Marionette	INFO	Listening on port 13091
+1512214158122	Marionette	INFO	startBrowser a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214158139	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214158517	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214159010	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214159022	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214159051	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214159063	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214159167	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512214160324	Marionette	INFO	sendAsync a5a9ae58-59ac-4af3-9758-1d574969fdba
+1512220283386	geckodriver	INFO	Listening on 127.0.0.1:17014
+1512220285405	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.3ulL7a3fdr7k
+1512220285417	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512220285476	geckodriver::marionette	INFO	Connecting to Marionette on localhost:17021
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512220287073	Marionette	INFO	Listening on port 17021
+1512220288541	Marionette	INFO	startBrowser 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220288572	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220288992	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220289491	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220289500	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220289513	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220289530	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220289539	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220289551	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220289643	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220290744	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220290756	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220290763	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220290771	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220290782	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220290791	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220290883	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291925	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291932	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291939	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291950	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291960	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291966	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291971	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220291981	Marionette	INFO	sendAsync 89d8e448-8f56-4246-9356-e2c4430d974d
+1512220292478	geckodriver	INFO	Listening on 127.0.0.1:17076
+1512220294475	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.RwYXDjmAlNKg
+1512220294479	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512220294566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:17084
+1512220296228	Marionette	INFO	Listening on port 17084
+1512220297950	Marionette	INFO	startBrowser ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220297972	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220298422	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220298895	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220298907	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220298939	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220298951	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220299132	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512220300191	Marionette	INFO	sendAsync ad4185cb-7dae-48f1-9807-793bae8dd0be
+1512221233080	geckodriver	INFO	Listening on 127.0.0.1:17691
+1512221235092	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.mOU2PFuwojXj
+1512221235098	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512221235174	geckodriver::marionette	INFO	Connecting to Marionette on localhost:17697
+1512221236841	Marionette	INFO	Listening on port 17697
+1512221238711	Marionette	INFO	startBrowser 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221238748	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239184	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239685	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239695	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239708	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239732	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239743	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239758	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221239884	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221240997	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221241008	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221241017	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221241025	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221241040	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221241047	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221241146	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221242182	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221242189	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221242196	Marionette	INFO	sendAsync 4c3a3487-3b46-45e8-bba0-8b18183f6626
+1512221602641	geckodriver	INFO	Listening on 127.0.0.1:17846
+1512221604663	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.SAAF9G0JiLkE
+1512221604668	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512221604743	geckodriver::marionette	INFO	Connecting to Marionette on localhost:17852
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512221606378	Marionette	INFO	Listening on port 17852
+1512221607932	Marionette	INFO	startBrowser dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221607978	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221608395	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221608889	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221608896	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221608908	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221608927	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221608935	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221608948	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221609060	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221610163	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221610172	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221610180	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221610190	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221610203	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221610213	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221610310	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221611351	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221611358	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512221611365	Marionette	INFO	sendAsync dfc9cf67-4bd9-4568-8f76-84f1c1891e7f
+1512222280062	geckodriver	INFO	Listening on 127.0.0.1:18181
+1512222282087	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.ISG6sBBHw25Y
+1512222282097	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512222282162	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18187
+1512222283725	Marionette	INFO	Listening on port 18187
+1512222285656	Marionette	INFO	startBrowser 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222285676	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286079	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286603	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286615	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286626	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286649	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286659	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286675	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222286803	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222287907	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222287916	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222287926	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222287936	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222287953	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222287961	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222288049	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289093	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289100	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289112	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289123	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289131	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289137	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289142	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289150	Marionette	INFO	sendAsync 4c9588ea-fa9b-484a-bee6-4f53afed1527
+1512222289622	geckodriver	INFO	Listening on 127.0.0.1:18240
+1512222291629	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.T4UFZvbLWN6M
+1512222291633	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512222291735	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18248
+1512222293615	Marionette	INFO	Listening on port 18248
+1512222295826	Marionette	INFO	startBrowser 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222295851	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222296257	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222296716	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222296729	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222296764	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222296775	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222296872	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222297988	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222297994	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222298004	Marionette	INFO	sendAsync 05b55838-d82f-4c2c-a5cc-55c7f3233aa2
+1512222753697	geckodriver	INFO	Listening on 127.0.0.1:18786
+1512222755724	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.ujzGR99f7KQG
+1512222755734	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512222755808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18794
+1512222757364	Marionette	INFO	Listening on port 18794
+1512222759176	Marionette	INFO	startBrowser b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222759200	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222759601	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222760139	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222760150	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222760159	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222760179	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222760188	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222760203	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222760316	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222761464	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222761472	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222761480	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222761490	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222761504	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222761513	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222761592	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762624	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762633	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762641	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762654	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762663	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762669	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762677	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222762685	Marionette	INFO	sendAsync b179706c-d59f-4935-ba55-ff326cc7cfef
+1512222763156	geckodriver	INFO	Listening on 127.0.0.1:18851
+1512222765162	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.nTe9JhjlOqTk
+1512222765167	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512222765255	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18860
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512222766901	Marionette	INFO	Listening on port 18860
+1512222768368	Marionette	INFO	startBrowser 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222768417	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222768897	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222769349	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222769361	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222769395	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222769406	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222769462	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222770580	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222770588	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512222770597	Marionette	INFO	sendAsync 1b05c07c-c42d-4b94-bb44-fcf91e0ce9b7
+1512307881990	geckodriver	INFO	Listening on 127.0.0.1:2377
+1512307884046	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.keJZCbTcCm9l
+1512307884054	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512307884179	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2383
+1512307886394	Marionette	INFO	Listening on port 2383
+1512307888914	Marionette	INFO	startBrowser 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307888937	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307889481	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307890080	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307890091	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307890103	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307890131	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307890152	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307890169	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307890403	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307891493	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307891504	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307891515	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307891524	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307891535	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307891543	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307892367	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893418	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893431	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893438	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893451	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893461	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893467	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893474	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307893484	Marionette	INFO	sendAsync 10ae8ab9-a67a-4b5c-967b-d520746616e5
+1512307894467	geckodriver	INFO	Listening on 127.0.0.1:2437
+1512307896496	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.MviFb85AGLaX
+1512307896516	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512307896627	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2445
+1512307899453	Marionette	INFO	Listening on port 2445
+1512307901957	Marionette	INFO	startBrowser 4842a193-2955-4230-960a-16d1a24abf5e
+1512307901986	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307902437	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307902901	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307902913	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307902944	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307902956	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307903024	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307904219	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307904226	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307904235	Marionette	INFO	sendAsync 4842a193-2955-4230-960a-16d1a24abf5e
+1512307906425	geckodriver	INFO	Listening on 127.0.0.1:2492
+1512307908427	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.lPmWOcIFbXNy
+1512307908438	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512307908551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2501
+1512307911212	Marionette	INFO	Listening on port 2501
+1512307914041	Marionette	INFO	startBrowser e1c85575-23d5-4d44-b2b9-0f50a6bc9896
+1512307914068	Marionette	INFO	sendAsync e1c85575-23d5-4d44-b2b9-0f50a6bc9896
+1512307914643	Marionette	INFO	sendAsync e1c85575-23d5-4d44-b2b9-0f50a6bc9896
+1512308019089	geckodriver	INFO	Listening on 127.0.0.1:2538
+1512308021097	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.bdsZn8DTnnS2
+1512308021110	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308021178	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2548
+1512308023583	Marionette	INFO	Listening on port 2548
+1512308026417	Marionette	INFO	startBrowser 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308026438	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308026984	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308027502	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308027513	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308027525	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308027588	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308027599	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308027615	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308027750	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308028898	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308028912	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308028923	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308028933	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308028948	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308028955	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308029055	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030097	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030106	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030115	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030132	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030149	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030157	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030166	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308030179	Marionette	INFO	sendAsync 4573b045-b8dd-41f3-b655-9138f8abbac0
+1512308031464	geckodriver	INFO	Listening on 127.0.0.1:2604
+1512308033509	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.pFnjc2cDlknT
+1512308033527	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308033614	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2612
+1512308036013	Marionette	INFO	Listening on port 2612
+1512308038965	Marionette	INFO	startBrowser 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308038988	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308039465	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308039918	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308039933	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308039966	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308039978	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308040289	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308041357	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308041365	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308041374	Marionette	INFO	sendAsync 7a9ee3a9-e050-4df6-b918-65a752a5e9d4
+1512308042008	geckodriver	INFO	Listening on 127.0.0.1:2650
+1512308044017	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.i374CLwWXzYr
+1512308044022	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308044094	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2658
+1512308046645	Marionette	INFO	Listening on port 2658
+1512308049211	Marionette	INFO	startBrowser 7b16ad2b-2cd0-472c-beeb-f9daf9c5330b
+1512308049265	Marionette	INFO	sendAsync 7b16ad2b-2cd0-472c-beeb-f9daf9c5330b
+1512308049851	Marionette	INFO	sendAsync 7b16ad2b-2cd0-472c-beeb-f9daf9c5330b
+1512308078931	geckodriver	INFO	Listening on 127.0.0.1:2694
+1512308080945	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.7Z7Zi3pDYSB9
+1512308080951	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308081019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2700
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512308083063	Marionette	INFO	Listening on port 2700
+1512308085631	Marionette	INFO	startBrowser 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308085649	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308086291	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308086816	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308086826	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308086837	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308086863	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308086873	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308086890	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308087032	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308088182	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308088195	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308088205	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308088216	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308088234	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308088242	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308088361	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089407	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089417	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089427	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089447	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089459	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089469	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089480	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308089493	Marionette	INFO	sendAsync 1691ae38-141f-4f7e-9797-5e06d0a3e415
+1512308090193	geckodriver	INFO	Listening on 127.0.0.1:2758
+1512308092288	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.ow4oG0mODDnK
+1512308092296	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308092426	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2768
+1512308094636	Marionette	INFO	Listening on port 2768
+1512308097936	Marionette	INFO	startBrowser 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308097960	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308098521	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308099038	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308099049	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308099083	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308099096	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308099200	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308100341	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308100349	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308100359	Marionette	INFO	sendAsync 768b3b5c-9b77-4d1f-9778-599596eec171
+1512308101278	geckodriver	INFO	Listening on 127.0.0.1:2807
+1512308103278	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.PxryOv6TPdTm
+1512308103284	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308103372	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2815
+1512308105976	Marionette	INFO	Listening on port 2815
+1512308108679	Marionette	INFO	startBrowser ead4aa35-a3e2-4bdc-9750-87861f315911
+1512308108701	Marionette	INFO	sendAsync ead4aa35-a3e2-4bdc-9750-87861f315911
+1512308109206	Marionette	INFO	sendAsync ead4aa35-a3e2-4bdc-9750-87861f315911
+1512308534301	geckodriver	INFO	Listening on 127.0.0.1:3042
+1512308536329	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.irZl7Wj6XZMi
+1512308536342	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308536424	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3052
+1512308538889	Marionette	INFO	Listening on port 3052
+1512308541356	Marionette	INFO	startBrowser 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308541382	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308541797	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308542344	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308542354	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308542365	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308542391	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308542401	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308542417	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308542630	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308543691	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308543703	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308543713	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308543725	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308543746	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308543755	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308543896	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308544947	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308544957	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308544966	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308544985	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308544998	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308545009	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308545019	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308545031	Marionette	INFO	sendAsync 28721053-2280-420f-afb4-a5c646c2e3ef
+1512308546007	geckodriver	INFO	Listening on 127.0.0.1:3127
+1512308548098	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.qia7YQPS3PBD
+1512308548104	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308548296	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3136
+1512308550743	Marionette	INFO	Listening on port 3136
+1512308553463	Marionette	INFO	startBrowser 09e77793-7f12-439a-b348-840ac59cae55
+1512308553498	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308553986	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308554471	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308554484	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308554517	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308554532	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308554737	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308555812	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308555819	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308555829	Marionette	INFO	sendAsync 09e77793-7f12-439a-b348-840ac59cae55
+1512308556595	geckodriver	INFO	Listening on 127.0.0.1:3185
+1512308558597	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.zcHO4QSAWD4v
+1512308558603	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512308558688	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3194
+1512308561354	Marionette	INFO	Listening on port 3194
+1512308563690	Marionette	INFO	startBrowser 59f1b55f-6a4c-4263-adcc-a7af687c1800
+1512308563714	Marionette	INFO	sendAsync 59f1b55f-6a4c-4263-adcc-a7af687c1800
+1512308564264	Marionette	INFO	sendAsync 59f1b55f-6a4c-4263-adcc-a7af687c1800
+1512308564871	Marionette	INFO	sendAsync 59f1b55f-6a4c-4263-adcc-a7af687c1800
+[Child 19816] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1512309479887	geckodriver	INFO	Listening on 127.0.0.1:5056
+1512309481901	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.Ru9CMeQPa1Xp
+1512309481906	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512309481981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:5065
+1512309483751	Marionette	INFO	Listening on port 5065
+1512309485621	Marionette	INFO	startBrowser c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309485639	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309486010	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309486487	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309486499	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309486531	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309486540	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309486619	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309487730	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309487737	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512309487746	Marionette	INFO	sendAsync c5c1662f-8f65-4244-8bfd-9802ab6131d3
+1512310460746	geckodriver	INFO	Listening on 127.0.0.1:7595
+1512310462745	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.lScpVtNeCMyn
+1512310462749	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512310462830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7604
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512310464640	Marionette	INFO	Listening on port 7604
+1512310466307	Marionette	INFO	startBrowser c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310466343	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310466707	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310467456	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310467965	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310468011	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310468041	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310468053	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310468097	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310469179	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310469186	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+1512310469194	Marionette	INFO	sendAsync c0abc106-7031-48b1-99dc-ed330bfe160b
+[Child 11956] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1512310596017	geckodriver	INFO	Listening on 127.0.0.1:7904
+1512310598041	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.GjndwDLQPoP2
+1512310598046	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512310598118	geckodriver::marionette	INFO	Connecting to Marionette on localhost:7911
+1512310599568	Marionette	INFO	Listening on port 7911
+1512310601921	Marionette	INFO	startBrowser ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310601951	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310602331	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310602786	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310602798	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310602835	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310602852	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310602944	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310604055	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310604062	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310604072	Marionette	INFO	sendAsync ffc1aeeb-fbea-4c76-966d-e29a5793f679
+1512310691588	geckodriver	INFO	Listening on 127.0.0.1:8072
+1512310693607	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.VWd012OZ3qi0
+1512310693617	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512310693682	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8078
+1512310695066	Marionette	INFO	Listening on port 8078
+1512310697008	Marionette	INFO	startBrowser 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310697038	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310697495	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310697970	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310697983	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310698011	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310698020	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310698109	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310699207	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310699213	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310699219	Marionette	INFO	sendAsync 3adaabeb-f877-4d10-ab78-901e66b07a16
+1512310817880	geckodriver	INFO	Listening on 127.0.0.1:8232
+1512310819885	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.nO1VUMdT2XtS
+1512310819890	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512310819962	geckodriver::marionette	INFO	Connecting to Marionette on localhost:8238
+1512310822047	Marionette	INFO	Listening on port 8238
+1512310824335	Marionette	INFO	startBrowser eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310824356	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310824728	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310825194	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310825205	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310825240	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310825254	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310825444	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310826495	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310826502	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512310826510	Marionette	INFO	sendAsync eb681de1-6e33-49b2-ba3f-269a858fcae7
+1512395324177	geckodriver	INFO	Listening on 127.0.0.1:37499
+1512395326182	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.11WFmPS0V8zB
+1512395326187	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512395326249	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37505
+1512395328142	Marionette	INFO	Listening on port 37505
+1512395330277	Marionette	INFO	startBrowser ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395330299	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395330646	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395330935	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395331455	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395331471	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395331503	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395331512	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395331551	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395332652	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395332659	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+1512395332668	Marionette	INFO	sendAsync ebdaef6c-af34-43a6-b2d6-51775573227d
+[Child 21880] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1512395837778	geckodriver	INFO	Listening on 127.0.0.1:37728
+1512395839818	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.DPEhvWyLw6vp
+1512395839823	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512395839882	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37734
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512395841603	Marionette	INFO	Listening on port 37734
+1512395843332	Marionette	INFO	startBrowser 346ff369-786a-4561-9a38-92cd05b07190
+1512395843385	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395843742	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395844201	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395844213	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395844258	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395844271	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395844358	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395845484	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395845492	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395845500	Marionette	INFO	sendAsync 346ff369-786a-4561-9a38-92cd05b07190
+1512395982457	geckodriver	INFO	Listening on 127.0.0.1:37907
+1512395984477	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.RQLHue5098Hk
+1512395984481	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512395984548	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37913
+1512395986373	Marionette	INFO	Listening on port 37913
+1512395988039	Marionette	INFO	startBrowser 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395988068	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395988407	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395988858	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395988870	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395988919	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395988929	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395988976	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395990116	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395990123	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512395990132	Marionette	INFO	sendAsync 983656b3-83df-485b-a1a8-0cf08e7212ee
+1512396195660	geckodriver	INFO	Listening on 127.0.0.1:38068
+1512396197681	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.87SaY4BZCCau
+1512396197691	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512396197746	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38074
+1512396199473	Marionette	INFO	Listening on port 38074
+1512396201399	Marionette	INFO	startBrowser 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396201447	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396201854	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396202346	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396202361	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396202404	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396202415	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396202484	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396203630	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396203637	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396203646	Marionette	INFO	sendAsync 93e39121-fe7a-495f-8635-edd5cd32b86e
+1512396642432	geckodriver	INFO	Listening on 127.0.0.1:38281
+1512396644447	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.JhK4Wk2tqS6F
+1512396644450	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512396644526	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38288
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512396646248	Marionette	INFO	Listening on port 38288
+1512396647950	Marionette	INFO	startBrowser 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396647999	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396648431	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396648906	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396648919	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396648963	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396648975	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396649044	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396650166	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396650171	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512396650179	Marionette	INFO	sendAsync 89a7b2ae-60bb-4c9e-99d3-7cd8511ad04a
+1512478083777	geckodriver	INFO	Listening on 127.0.0.1:1257
+1512478085790	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.0mTfx8pW0ILZ
+1512478085795	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512478085862	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1263
+1512478087703	Marionette	INFO	Listening on port 1263
+1512478089652	Marionette	INFO	startBrowser add6f823-2104-49bc-8d53-58fd72bb0886
+1512478089672	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478090079	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478090535	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478090544	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478090580	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478090588	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478090832	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478091885	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478091890	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512478091897	Marionette	INFO	sendAsync add6f823-2104-49bc-8d53-58fd72bb0886
+1512565865448	geckodriver	INFO	Listening on 127.0.0.1:2791
+1512565867476	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.iZGcNQLhcRxF
+1512565867482	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512565867538	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2797
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512565869402	Marionette	INFO	Listening on port 2797
+1512565871034	Marionette	INFO	startBrowser 37c12e96-af09-433f-8700-fefc725b227a
+1512565871052	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565871374	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565872011	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565872372	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565872390	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565872436	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565872446	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565872497	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565873613	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565873618	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+1512565873626	Marionette	INFO	sendAsync 37c12e96-af09-433f-8700-fefc725b227a
+[Child 27724] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xF60005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1512566419111	geckodriver	INFO	Listening on 127.0.0.1:3025
+1512566421134	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.tpLufyVz3RaZ
+1512566421138	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512566421194	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3034
+1512566422758	Marionette	INFO	Listening on port 3034
+1512566424519	Marionette	INFO	startBrowser caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566424537	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566424898	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566425343	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566425351	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566425384	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566425393	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566425453	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566426578	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566426584	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566426590	Marionette	INFO	sendAsync caa5a644-b2d4-48ad-82af-b50d9cd1d978
+1512566570754	geckodriver	INFO	Listening on 127.0.0.1:3176
+1512566572774	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.RsDihZhGrtfV
+1512566572777	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512566572838	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3182
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512566574386	Marionette	INFO	Listening on port 3182
+1512566575851	Marionette	INFO	startBrowser 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566575896	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566576216	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566576447	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566576463	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566576516	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566576532	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566576737	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566577800	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566577808	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566577819	Marionette	INFO	sendAsync 5035d433-edf5-48a4-b335-aa6c466f9c89
+1512566719497	geckodriver	INFO	Listening on 127.0.0.1:3300
+1512566721520	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.Y810VEvHo68V
+1512566721524	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512566721579	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3308
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512566723116	Marionette	INFO	Listening on port 3308
+1512566724602	Marionette	INFO	startBrowser 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566724622	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566724999	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566725250	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566725263	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566725308	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566725319	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566725379	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566726492	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566726500	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566726507	Marionette	INFO	sendAsync 8e37054d-7ea7-46fb-baa6-3ed0eea187ea
+1512566921811	geckodriver	INFO	Listening on 127.0.0.1:3454
+1512566923833	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.1DPZpdFEaj6I
+1512566923837	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512566923893	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3460
+1512566925405	Marionette	INFO	Listening on port 3460
+1512566927010	Marionette	INFO	startBrowser 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566927029	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566927406	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566927659	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566927673	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566927725	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566927739	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566927826	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566928927	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566928933	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512566928960	Marionette	INFO	sendAsync 4c083f66-7581-43df-b8e9-c817d0bd44b5
+1512567356158	geckodriver	INFO	Listening on 127.0.0.1:3661
+1512567358168	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.37AgnyikUWBZ
+1512567358173	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512567358231	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3667
+1512567360067	Marionette	INFO	Listening on port 3667
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512567361790	Marionette	INFO	startBrowser 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567361813	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567362130	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567362360	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567362368	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567362410	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567362421	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567362490	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567363609	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567363616	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512567363622	Marionette	INFO	sendAsync 5bf8ded0-bfb9-4125-bdaa-496306d519d0
+1512573474004	geckodriver	INFO	Listening on 127.0.0.1:4730
+1512573476022	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.e7MdLpT0vJnK
+1512573476026	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512573476089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:4736
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512573477811	Marionette	INFO	Listening on port 4736
+1512573479407	Marionette	INFO	startBrowser 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573479428	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573479773	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573479998	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573480008	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573480057	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573480067	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573480135	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573481258	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573481264	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512573481270	Marionette	INFO	sendAsync 134b6e83-bceb-4b30-91cf-fc2b1a22c3fd
+1512656171455	geckodriver	INFO	Listening on 127.0.0.1:13024
+1512656173476	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.1Rt5S9vEVR48
+1512656173481	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512656173543	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13030
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512656175359	Marionette	INFO	Listening on port 13030
+1512656177140	Marionette	INFO	startBrowser 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656177159	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656177492	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656177752	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656177764	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656177815	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656177825	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656177891	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656179011	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656179018	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512656179024	Marionette	INFO	sendAsync 0d523211-8316-4ac1-875a-28893b8fc29f
+1512735252839	geckodriver	INFO	Listening on 127.0.0.1:19409
+1512735254871	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.z64jNWeclHMW
+1512735254876	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512735254921	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19415
+1512735256682	Marionette	INFO	Listening on port 19415
+1512735258459	Marionette	INFO	startBrowser 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735258476	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735258806	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735259262	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735259272	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735259312	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735259321	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735259399	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735260516	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735260522	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735260528	Marionette	INFO	sendAsync 4f9ccf8a-33bd-4304-ac25-7362d7f6a43e
+1512735573402	geckodriver	INFO	Listening on 127.0.0.1:19675
+1512735575433	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.7Mu94BtUhrxs
+1512735575436	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512735575488	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19681
+1512735576951	Marionette	INFO	Listening on port 19681
+1512735578458	Marionette	INFO	startBrowser 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735578489	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735578791	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735579225	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735579233	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735579264	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735579271	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735579330	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735580447	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735580452	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735580460	Marionette	INFO	sendAsync 2b3d3d93-6879-4a4c-aaaa-7b36b6dc73b4
+1512735993649	geckodriver	INFO	Listening on 127.0.0.1:19874
+1512735995672	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.8VjLc6PYPUEC
+1512735995676	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512735995728	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19880
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512735997179	Marionette	INFO	Listening on port 19880
+1512735998698	Marionette	INFO	startBrowser 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512735998742	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512735999124	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512735999561	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512735999571	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512735999603	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512735999611	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512735999668	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512736000791	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512736000797	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512736000803	Marionette	INFO	sendAsync 30e675dd-2825-4206-a5d3-b40a3f284c0e
+1512740567302	geckodriver	INFO	Listening on 127.0.0.1:20743
+1512740569316	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.p9hCfOKgRecM
+1512740569321	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512740569398	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20749
+1512740571219	Marionette	INFO	Listening on port 20749
+1512740573155	Marionette	INFO	startBrowser c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740573173	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740573544	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740573999	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740574010	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740574055	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740574067	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740574150	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740575270	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740575275	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512740575281	Marionette	INFO	sendAsync c8b9acbb-8c50-48a6-81f6-7d3460c47834
+1512741090813	geckodriver	INFO	Listening on 127.0.0.1:20993
+1512741092853	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.RLP5tduqPz2D
+1512741092856	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512741092911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20999
+1512741094531	Marionette	INFO	Listening on port 20999
+1512741096283	Marionette	INFO	startBrowser 993cedf1-8429-4557-b008-6d94193416cf
+1512741096301	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741096641	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741097078	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741097091	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741097132	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741097147	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741097202	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741098329	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741098339	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741098350	Marionette	INFO	sendAsync 993cedf1-8429-4557-b008-6d94193416cf
+1512741278964	geckodriver	INFO	Listening on 127.0.0.1:21234
+1512741280982	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.RTZojBXsDqi9
+1512741280988	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512741281044	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21240
+1512741282776	Marionette	INFO	Listening on port 21240
+1512741284313	Marionette	INFO	startBrowser df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741284329	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741284698	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741285180	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741285194	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741285231	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741285242	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741285477	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741286558	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741286566	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741286575	Marionette	INFO	sendAsync df74417b-ef7c-49f4-9abd-4c0a988c318c
+1512741374882	geckodriver	INFO	Listening on 127.0.0.1:21463
+1512741376896	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.70Q6M29PmjmR
+1512741376900	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512741376963	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21469
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512741378500	Marionette	INFO	Listening on port 21469
+1512741380031	Marionette	INFO	startBrowser 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741380063	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741380412	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741380842	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741380851	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741380888	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741380897	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741380945	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741382076	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741382082	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741382088	Marionette	INFO	sendAsync 44f7b814-76fc-4641-965d-4e6d50eb3938
+1512741720542	geckodriver	INFO	Listening on 127.0.0.1:21712
+1512741722569	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.dsbFIwG9kMrm
+1512741722574	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512741722631	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21718
+1512741724140	Marionette	INFO	Listening on port 21718
+1512741725757	Marionette	INFO	startBrowser 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741725804	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741726112	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741726549	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741726558	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741726588	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741726596	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741726646	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741727778	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741727783	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512741727792	Marionette	INFO	sendAsync 1674fd1f-bf52-4050-bd43-57ef33893c2a
+1512915735398	geckodriver	INFO	Listening on 127.0.0.1:33382
+1512915737434	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.oF7ogW2Uti2b
+1512915737439	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512915737499	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33388
+1512915739482	Marionette	INFO	Listening on port 33388
+1512915741429	Marionette	INFO	startBrowser fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915741446	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915741836	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915742355	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915742373	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915742420	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915742429	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915742519	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915743637	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915743642	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915743651	Marionette	INFO	sendAsync fa86a759-454d-47ad-8c3f-44086f5141a2
+1512915883546	geckodriver	INFO	Listening on 127.0.0.1:33572
+1512915885552	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.ArsM3KNWEYcf
+1512915885562	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512915885622	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33578
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512915887280	Marionette	INFO	Listening on port 33578
+1512915888751	Marionette	INFO	startBrowser 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915888771	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915889113	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915889571	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915889579	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915889611	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915889620	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915889695	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915890821	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915890827	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512915890834	Marionette	INFO	sendAsync 8c688ad5-7336-4e93-a494-dfc21dc04682
+1512916878683	geckodriver	INFO	Listening on 127.0.0.1:33940
+1512916880707	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.aMESIq8Vb4Qz
+1512916880716	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512916880773	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33946
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1512916882477	Marionette	INFO	Listening on port 33946
+1512916883969	Marionette	INFO	startBrowser ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916883996	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916884308	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916884767	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916884778	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916884819	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916884828	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916884886	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916886014	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916886024	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512916886031	Marionette	INFO	sendAsync ee738580-d5fb-4dbd-be40-8f7841d7d3d0
+1512917329137	geckodriver	INFO	Listening on 127.0.0.1:34158
+1512917331155	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.Cj36Er2t17Mw
+1512917331160	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512917331212	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34164
+1512917332808	Marionette	INFO	Listening on port 34164
+1512917334537	Marionette	INFO	startBrowser bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917334564	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917334954	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917335430	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917335439	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917335472	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917335480	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917335532	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917336655	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917336662	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917336670	Marionette	INFO	sendAsync bd7b1156-df26-4cd8-b941-9eedc9079766
+1512917713248	geckodriver	INFO	Listening on 127.0.0.1:34472
+1512917715268	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.rvU0zVACVBpR
+1512917715279	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512917715335	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34478
+1512917716966	Marionette	INFO	Listening on port 34478
+1512917718564	Marionette	INFO	startBrowser b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917718590	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917718979	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917719452	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917719460	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917719495	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917719503	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917719576	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917720704	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917720711	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512917720717	Marionette	INFO	sendAsync b9c4784e-8539-4cc2-bc32-4502ae3b8090
+1512918164885	geckodriver	INFO	Listening on 127.0.0.1:34744
+1512918166914	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.XLWFzeD7js3n
+1512918166917	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512918166979	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34750
+1512918168577	Marionette	INFO	Listening on port 34750
+1512918170352	Marionette	INFO	startBrowser 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918170370	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918170654	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918171098	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918171108	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918171145	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918171161	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918171217	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918172350	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918172359	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918172369	Marionette	INFO	sendAsync 7015cad1-55b6-4c0b-b062-2edca8d01260
+1512918211666	geckodriver	INFO	Listening on 127.0.0.1:34922
+1512918213683	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.QDHsHwCxQR74
+1512918213692	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512918213764	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34928
+1512918216064	Marionette	INFO	Listening on port 34928
+1512918334165	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: http://www.csu.cas.cn/, line 26: ReferenceError: $ is not defined
+JavaScript warning: https://mail.cstnet.cn/coremail/XT5/89517/script/main.js, line 10: unreachable code after return statement
+er::marionette	INFO	Connecting to Marionette on localhost:35123
+1512918261385	Marionette	INFO	Listening on port 35123
+1512918263084	Marionette	INFO	startBrowser 55581196-8456-4b0f-a927-cc2bf4115352
+1512918263101	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918263498	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918263998	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918264009	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918264052	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918264060	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918264115	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918265235	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918265241	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512918265247	Marionette	INFO	sendAsync 55581196-8456-4b0f-a927-cc2bf4115352
+1512919357570	geckodriver	INFO	Listening on 127.0.0.1:36000
+1512919359557	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.xbNZkUjz8mnP
+1512919359562	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512919359680	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36006
+1512919361900	Marionette	INFO	Listening on port 36006
+1512919364106	Marionette	INFO	startBrowser 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919364131	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919364625	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919365532	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919365581	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919365764	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919365776	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919366599	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919367706	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919367713	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512919367719	Marionette	INFO	sendAsync 4b07ff76-c9c9-466a-9c46-f392ff4e3e50
+1512920104934	geckodriver	INFO	Listening on 127.0.0.1:36288
+1512920106958	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.R3yMsd60SIcT
+1512920106962	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512920107018	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36294
+1512920108739	Marionette	INFO	Listening on port 36294
+1512920110317	Marionette	INFO	startBrowser 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920110333	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920110655	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920111163	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920111173	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920111205	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920111217	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920111278	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920112390	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920112397	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512920112403	Marionette	INFO	sendAsync 3108bf6c-362e-46a9-b82c-53cc993a590c
+1512995220100	geckodriver	INFO	Listening on 127.0.0.1:41230
+1512995222131	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.o6xoZtNdNUtP
+1512995222135	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1512995222218	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41236
+1512995223947	Marionette	INFO	Listening on port 41236
+1512995225797	Marionette	INFO	startBrowser 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995225814	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995226191	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995226684	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995226697	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995226748	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995226759	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995226955	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995228032	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995228038	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1512995228046	Marionette	INFO	sendAsync 0f7e43b6-cac5-4909-bdf1-bd96ed05d89d
+1513085372742	geckodriver	INFO	Listening on 127.0.0.1:49379
+1513085374767	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.1zGYr8lRgsHG
+1513085374774	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1513085374847	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49385
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1513085376677	Marionette	INFO	Listening on port 49385
+1513085378522	Marionette	INFO	startBrowser 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085378540	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085378931	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085379625	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085380294	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085380311	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085380352	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085380362	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085380417	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085381600	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085381610	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+1513085381620	Marionette	INFO	sendAsync 2f230b23-e9be-440b-9c80-5c874cd267ad
+[Child 36008] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1513344598109	geckodriver	INFO	Listening on 127.0.0.1:11472
+1513344600140	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.gnE180Jo6Xws
+1513344600146	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1513344600223	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11478
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1513344602085	Marionette	INFO	Listening on port 11478
+1513344603934	Marionette	INFO	startBrowser 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344603956	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344604498	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344604964	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344604974	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344605018	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344605027	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344605116	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344606255	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344606270	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513344606283	Marionette	INFO	sendAsync 96cfb0a0-7e24-4546-b520-1b97d616c843
+1513428811306	geckodriver	INFO	Listening on 127.0.0.1:1436
+1513428813336	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.Kh3IqmoyWUy8
+1513428813345	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1513428813415	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1443
+1513428815207	Marionette	INFO	Listening on port 1443
+1513428817001	Marionette	INFO	startBrowser 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428817016	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428817480	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428818003	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428818013	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428818043	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428818052	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428818127	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428819264	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428819269	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513428819276	Marionette	INFO	sendAsync 98b6e6f5-dffd-4b2d-a09b-b9631ca1b1ee
+1513433402172	geckodriver	INFO	Listening on 127.0.0.1:23758
+1513433404182	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.6na7TaLs9g5U
+1513433404189	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1513433404242	geckodriver::marionette	INFO	Connecting to Marionette on localhost:23764
+1513433406118	Marionette	INFO	Listening on port 23764
+1513433407974	Marionette	INFO	startBrowser 25f62348-e916-474d-8595-dc8660587c87
+1513433408001	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433408370	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433408828	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433408837	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433408878	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433408885	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433408979	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433410109	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433410115	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433410120	Marionette	INFO	sendAsync 25f62348-e916-474d-8595-dc8660587c87
+1513433557936	geckodriver	INFO	Listening on 127.0.0.1:24019
+1513433559966	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.WWSwIohvuWsE
+1513433559972	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1513433560042	geckodriver::marionette	INFO	Connecting to Marionette on localhost:24028
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1513433561844	Marionette	INFO	Listening on port 24028
+1513433563564	Marionette	INFO	startBrowser bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433563593	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433563985	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433564338	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433564349	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433564392	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433564400	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433564452	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433565589	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433565595	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433565605	Marionette	INFO	sendAsync bdf7cb04-5c27-4723-8d8e-c0e027c3c462
+1513433862914	geckodriver	INFO	Listening on 127.0.0.1:24302
+1513433864952	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.KxfUsYGO2Zb0
+1513433864960	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1513433865049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:24308
+1513433869346	Marionette	INFO	Listening on port 24308
+1513433871570	Marionette	INFO	startBrowser f14027b8-902e-415f-85e2-64830d252fd6
+1513433871614	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433872150	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433872658	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433872676	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433872714	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433872727	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433872945	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433874030	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433874036	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1513433874042	Marionette	INFO	sendAsync f14027b8-902e-415f-85e2-64830d252fd6
+1514295827142	geckodriver	INFO	Listening on 127.0.0.1:11450
+1514295829166	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.1LACb2kGrbN5
+1514295829172	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1514295829353	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11457
+1514296179343	geckodriver	INFO	Listening on 127.0.0.1:11875
+1514296181408	mozprofile::profile	INFO	Using profile path C:\Users\yan\AppData\Local\Temp\rust_mozprofile.4kvsYAz8WA81
+1514296181413	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1514296181588	geckodriver::marionette	INFO	Connecting to Marionette on localhost:11881
+Unable to read VR Path Registry from C:\Users\yan\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240052,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\yan\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\yan\AppData\Local\openvr\openvrpaths.vrpath
+[Child 816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
