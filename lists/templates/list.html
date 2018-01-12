@@ -7,7 +7,24 @@
 {% block table %}
     <table id="id_list_table" class="table">
         {% for item in list.item_set.all %}
-        <tr><td>{{ forloop.counter }}: {{ item.text }}</td></tr>
+            <tr>
+                <td>{{ forloop.counter }}: {{ item.text }}</td>
+            </tr>
         {% endfor %}
     </table>
+    <h1 id="id_list_owner">{{ list.owner.email }}</h1>
+{% endblock %}
+
+{% block extra_content %}
+    <form method="POST" action={% url 'view_share' list.id %}>
+        {% csrf_token %}
+        <span>Enter share email to log in:</span>
+        <input class="form-control" name="sharee" placeholder="your-friend@example.com"/>
+    </form>
+    <h3>Shared with</h3>
+    <ul>
+        {% for sharee in list.shared_with.all %}
+            <li class="list-sharee">{{ sharee.email }}</li>
+        {% endfor %}
+    </ul>
 {% endblock %}

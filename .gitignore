@@ -1,4 +1,7 @@
 db.sqlite3
 __pycache__
 *.pyc
-*.log"functional_test/screendumps" 
+*.log
+functional_tests/screendumps/
+lists/migrations/
+*/migrations/

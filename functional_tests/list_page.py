@@ -16,7 +16,7 @@ class ListPage(object):
         self.test.assertIn(expected_row_text, [row.text for row in rows])
 
     def get_item_input_box(self):
-        return self.test.browser.find_elements_by_id('id_text')
+        return self.test.browser.find_element_by_id('id_text')
 
     def add_list_item(self, item_text):
         new_item_no = len(self.get_table_rows()) + 1
@@ -26,7 +26,7 @@ class ListPage(object):
         return self
 
     def get_share_box(self):
-        return self.test.browser.find_elements_by_css_selector(
+        return self.test.browser.find_element_by_css_selector(
             'input[name="sharee"]'
         )
 
@@ -44,4 +44,4 @@ class ListPage(object):
         ))
 
     def get_list_owner(self):
-        return self.test.browser.find_elements_by_id('id_list_owner').text
+        return self.test.browser.find_element_by_id('id_list_owner').text

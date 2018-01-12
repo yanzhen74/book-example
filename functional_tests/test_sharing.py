@@ -15,6 +15,7 @@ class SharingTest(FunctionalTest):
     def test_can_share_a_list_with_another_user(self):
         # Edith is a logged-in user
         self.create_pre_authenticated_session('edith@example.com')
+        self.browser.get(self.live_server_url)
         edith_browser = self.browser
         self.addCleanup(lambda: quit_if_possible(edith_browser))
 
@@ -23,6 +24,7 @@ class SharingTest(FunctionalTest):
         self.addCleanup(lambda: quit_if_possible(oni_browser))
         self.browser = oni_browser
         self.create_pre_authenticated_session('oniciferous@example.com')
+        self.browser.get(self.live_server_url)
 
         # Edith goes to the home page and starts a list
         self.browser = edith_browser
