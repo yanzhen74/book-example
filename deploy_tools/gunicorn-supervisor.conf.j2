@@ -1,0 +1,22 @@
+#!/bin/bash
+set -e
+#source ~/.bashrc
+Environment=EMAIL_PASSWORD=Fzydyzdy!waygc
+WorkingDirectory=/home/oliver/sites/{{ host }}/source
+LOGFILE=/home/oliver/guni.log
+LOGDIR=$(dirname $LOGFILE)
+NUM_WORKERS=3 # cpu core nums * 2 + 1
+USER=oliver
+GROUP=oliver
+# WORKER=gevent # install python gevent
+ADDRESS=unix:/tmp/{{ host }}.socket
+test -d $LOGDIR || mkdir -p $LOGDIR
+exec /home/oliver/sites/{{ host }}/virtualenv/bin/gunicorn -w $NUM_WORKERS --bind=$ADDRESS \
+--capture-output \
+--access-logfile ../guni.access.log \
+--error-logfile ../guni.error.log \
+superlists.wsgi:application \
+# -k $WORKER
+--daemon \
+--user=$USER --group=$GROUP --log-level=error \
+--log-file=$LOGFILE 2>>$LOGFILE
