@@ -1,0 +1,12 @@
+[live]
+192.168.1.6 ansible_become=yes ansible_become_pass='oliver' ansible_su_pass=oliver ansible_ssh_user=oliver ansible_host=192.168.1.6
+
+[live8]
+192.168.1.8 ansible_become=yes ansible_become_pass='oliver' ansible_ssh_user=oliver ansible_host=192.168.1.8 ansible_ssh_private_key_file=/home/oliver/.ssh/id_rsa
+
+[live5]
+192.168.1.5 host=192.168.1.5 ansible_become=yes ansible_become_pass='oliver' ansible_ssh_user=oliver ansible_host=192.168.1.5
+
+[local]
+localhost ansible_ssh_user=root ansible_become_pass='oliver' ansible_su_pass=oliver ansible_host=127.0.0.1
+
