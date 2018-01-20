@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670fdf64-fc5d-4ba6-a4a7-cec84e753802" name="Default" comment="make functional_tests an app, use LiveServerTestCase">
+    <list default="true" id="670fdf64-fc5d-4ba6-a4a7-cec84e753802" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy_tools/provision.ansible.yaml" afterPath="$PROJECT_DIR$/deploy_tools/provision.ansible.yaml" />
     </list>
@@ -31,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/deploy_tools/provision.ansible.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+              <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -343,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516376769248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rm source to keep ansible-playbook exec ok">
+      <created>1516452270018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516452270018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -418,7 +425,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="make functional_tests an app, use LiveServerTestCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="make functional_tests an app, use LiveServerTestCase" />
+    <MESSAGE value="rm source to keep ansible-playbook exec ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm source to keep ansible-playbook exec ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -794,7 +802,7 @@
     <entry file="file://$PROJECT_DIR$/deploy_tools/provision.ansible.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
           <folding />
         </state>
       </provider>

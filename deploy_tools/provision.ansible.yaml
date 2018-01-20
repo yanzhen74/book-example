@@ -32,12 +32,9 @@
             - restart nginx
 
       - name: git source
-        shell:
-            mkdir -p ~/sites/{{ host }}
-        shell:
-            rm -rf ~/sites/{{ host }}/source
-        shell:
-            git clone https://github.com/yanzhen74/book-example.git ~/sites/{{ host }}/source/ 
+        shell: mkdir -p ~/sites/{{ host }}
+        shell: rm -rf ~/sites/{{ host }}/source
+        shell: git clone https://github.com/yanzhen74/book-example.git ~/sites/{{ host }}/source/
 
       - name: write gunicorn service script
         template:
