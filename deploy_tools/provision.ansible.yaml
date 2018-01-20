@@ -32,7 +32,7 @@
             - restart nginx
 
       - name: git source
-       command: mkdir -p ~/sites/{{ host }}
+        command: mkdir -p ~/sites/{{ host }}
       - command: rm -rf ~/sites/{{ host }}/source
       - command: git clone https://github.com/yanzhen74/book-example.git ~/sites/{{ host }}/source/
 

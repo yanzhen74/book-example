@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670fdf64-fc5d-4ba6-a4a7-cec84e753802" name="Default" comment="rm source to keep ansible-playbook exec ok">
+    <list default="true" id="670fdf64-fc5d-4ba6-a4a7-cec84e753802" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy_tools/provision.ansible.yaml" afterPath="$PROJECT_DIR$/deploy_tools/provision.ansible.yaml" />
     </list>
@@ -30,8 +30,8 @@
       <file leaf-file-name="provision.ansible.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy_tools/provision.ansible.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+            <state relative-caret-position="190">
+              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -378,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516453605237</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="rm source to keep ansible-playbook exec ok">
+      <created>1516454150008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1516454150008</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -829,8 +836,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy_tools/provision.ansible.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        <state relative-caret-position="190">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
           <folding />
         </state>
       </provider>
