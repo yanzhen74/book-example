@@ -35,6 +35,8 @@
         shell:
             mkdir -p ~/sites/{{ host }}
         shell:
+            rm -rf ~/sites/{{ host }}/source
+        shell:
             git clone https://github.com/yanzhen74/book-example.git ~/sites/{{ host }}/source/ 
 
       - name: write gunicorn service script
@@ -50,6 +52,7 @@
             dest=/home/oliver/sites/gunicorn-supervisor-{{ host }}.conf
         notify:
             - restart gunicorn
+
   handlers:
     - name: restart nginx
       service: name=nginx state=restarted
