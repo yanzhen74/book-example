@@ -1,0 +1,5 @@
+[program:gunicorn]
+directory=/home/oliver/sites/{{ host }}/source
+command=/home/oliver/sites/{{ host }}/source/gunicorn-supervisor.conf
+user=oliver
+umask=022
