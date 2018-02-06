@@ -5,3 +5,4 @@ __pycache__
 functional_tests/screendumps/
 lists/migrations/
 */migrations/
+.idea/
