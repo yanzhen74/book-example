@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="/static/base.css" rel="stylesheet" media="screen">
+    {% load staticfiles %}
 </head>
 <body>
 <div class="container">
@@ -83,8 +84,8 @@
     </div>
 
 </div>
-<script src="../static/bootstrap/js/jquery.js"></script>
-<script src="../static/list.js"></script>
+<script src={%static "bootstrap/js/jquery.js" %}></script>
+<script src={%static "list.js" %}></script>
 
 {% block scripts %}
 <script>

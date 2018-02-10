@@ -16,6 +16,8 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 import lists.views
+import superlists.settings
+from django.views.static import serve
 
 urlpatterns = [
     # url(r'^admin/', admin.site.urls),
@@ -23,4 +25,5 @@ urlpatterns = [
     url(r'^lists/', include('lists.urls')),
     url(r'^accounts/', include('accounts.urls')),
     url(r'^api/', include('lists.api_urls')),
+url(r"^static/(?P<path>.*)$",serve,{"document_root": superlists.settings.STATIC_ROOT,}),
 ]
