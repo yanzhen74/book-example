@@ -18,12 +18,14 @@ from django.contrib import admin
 import lists.views
 import superlists.settings
 from django.views.static import serve
+from lists.api import router
 
 urlpatterns = [
     # url(r'^admin/', admin.site.urls),
     url(r'^$', lists.views.home_page, name='home'),
     url(r'^lists/', include('lists.urls')),
     url(r'^accounts/', include('accounts.urls')),
-    url(r'^api/', include('lists.api_urls')),
-url(r"^static/(?P<path>.*)$",serve,{"document_root": superlists.settings.STATIC_ROOT,}),
+    url(r'^api/', include(lists.api.router.urls)),
+    # url(r'^api/', include('lists.api_urls')),
+    url(r"^static/(?P<path>.*)$", serve, {"document_root": superlists.settings.STATIC_ROOT, }),
 ]

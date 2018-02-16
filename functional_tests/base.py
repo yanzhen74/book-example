@@ -112,10 +112,11 @@ class FunctionalTest(StaticLiveServerTestCase):
             timestamp=timestamp
         )
 
+    @wait
     def check_for_row_in_list_table(self, row_text):
         table = self.browser.find_element_by_id('id_list_table')
         rows = table.find_elements_by_tag_name('tr')
-        self.assertIn(row_text, [row.text for row in rows])
+        self.test.assertIn(row_text, [row.text for row in rows])
 
     def get_item_input_box(self):
         return self.browser.find_element_by_id('id_text')
@@ -126,8 +127,7 @@ class FunctionalTest(StaticLiveServerTestCase):
 
     @wait
     def wait_for_row_in_list_table(self, row_text):
-        table = self.browser.find_element_by_id('id_list_table')
-        rows = table.find_elements_by_tag_name('tr')
+        rows = self.browser.find_elements_by_css_selector('#id_list_table tr')
         self.assertIn(row_text, [row.text for row in rows])
 
     @wait
@@ -146,7 +146,6 @@ class FunctionalTest(StaticLiveServerTestCase):
         num_rows = len(self.browser.find_elements_by_css_selector('#id_list_table tr'))
         self.get_item_input_box().send_keys(item_text)
         self.get_item_input_box().send_keys(Keys.ENTER)
-        for item in List.objects.all()[0].item_set.all():
-            print(item.text)
         item_number = num_rows + 1
         self.wait_for_row_in_list_table('%s: %s' % (item_number, item_text,))
+        return self
