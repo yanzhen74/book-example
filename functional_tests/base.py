@@ -41,6 +41,10 @@ class FunctionalTest(StaticLiveServerTestCase):
             session_key = create_session_on_server(self.staging_server, email)
         else:
             session_key = create_pre_authenticated_session(email)
+        self.restore_authenticated_session(session_key)
+        return session_key
+
+    def restore_authenticated_session(self, session_key):
         ## to set a cookie we need to first visit the domain.
         ## 404 pages load the quickest!
         self.browser.get(self.live_server_url + "/404_no_such_rul/")
@@ -49,6 +53,7 @@ class FunctionalTest(StaticLiveServerTestCase):
             value=session_key,
             path='/',
         ))
+
 
     @classmethod
     def setUpClass(cls):
@@ -84,6 +89,7 @@ class FunctionalTest(StaticLiveServerTestCase):
                 self.browser.switch_to_window(handle)
                 self.take_screenshot()
                 self.dump_html()
+        self.browser.refresh()
         self.browser.quit()
         super().tearDown()
 
